@@ -1,0 +1,22 @@
+.avatar {
+    width: 100px;
+    border-radius: 16px;
+    box-shadow: -5px -5px 14px aqua;
+}
+
+body {
+    min-height: 100vh;
+}
+
+footer {
+    position: sticky;
+    top: 100%;
+}
+
+.success {
+    color: green;
+}
+
+.error-msg {
+  color: red;
+}
